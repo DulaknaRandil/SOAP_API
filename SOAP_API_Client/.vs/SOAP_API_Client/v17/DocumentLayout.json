@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2B0C0A-F86A-4D9E-83CA-4303896020FC}|SOAP_API_Client\\SOAP_API_Client.csproj|d:\\programming projects\\.net\\soap_api\\soap_api_client\\soap_api_client\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A2B0C0A-F86A-4D9E-83CA-4303896020FC}|SOAP_API_Client\\SOAP_API_Client.csproj|solutionrelative:soap_api_client\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API_Client\\SOAP_API_Client\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SOAP_API_Client\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API_Client\\SOAP_API_Client\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SOAP_API_Client\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:26:55.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

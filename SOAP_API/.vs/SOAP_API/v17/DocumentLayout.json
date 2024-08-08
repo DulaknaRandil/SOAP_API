@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|d:\\programming projects\\.net\\soap_api\\soap_api\\soap_api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|solutionrelative:soap_api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|d:\\programming projects\\.net\\soap_api\\soap_api\\soap_api\\models\\customerservicecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|solutionrelative:soap_api\\models\\customerservicecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|d:\\programming projects\\.net\\soap_api\\soap_api\\soap_api\\models\\customerdatacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|solutionrelative:soap_api\\models\\customerdatacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|d:\\programming projects\\.net\\soap_api\\soap_api\\soap_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|solutionrelative:soap_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|d:\\programming projects\\.net\\soap_api\\soap_api\\soap_api\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|solutionrelative:soap_api\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|d:\\programming projects\\.net\\soap_api\\soap_api\\soap_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|solutionrelative:soap_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|d:\\programming projects\\.net\\soap_api\\soap_api\\soap_api\\soap_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4AFA4A03-577A-4501-B864-955ED2FC7E6D}|SOAP_API\\SOAP_API.csproj|solutionrelative:soap_api\\soap_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\appsettings.json",
+              "RelativeDocumentMoniker": "SOAP_API\\appsettings.json",
+              "ToolTip": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\appsettings.json",
+              "RelativeToolTip": "SOAP_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T04:55:07.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SOAP_API.http",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\SOAP_API.http",
+              "RelativeDocumentMoniker": "SOAP_API\\SOAP_API.http",
+              "ToolTip": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\SOAP_API.http",
+              "RelativeToolTip": "SOAP_API\\SOAP_API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-08T04:42:42.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SOAP_API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SOAP_API\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:21:47.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDataContract.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Models\\CustomerDataContract.cs",
+              "RelativeDocumentMoniker": "SOAP_API\\Models\\CustomerDataContract.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Models\\CustomerDataContract.cs",
+              "RelativeToolTip": "SOAP_API\\Models\\CustomerDataContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:59:33.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Program.cs",
+              "RelativeDocumentMoniker": "SOAP_API\\Program.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Program.cs",
+              "RelativeToolTip": "SOAP_API\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:00:33.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "SOAP_API\\Services\\ICustomerService.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "SOAP_API\\Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:54:01.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerServiceContract.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Models\\CustomerServiceContract.cs",
+              "RelativeDocumentMoniker": "SOAP_API\\Models\\CustomerServiceContract.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\SOAP_API\\SOAP_API\\SOAP_API\\Models\\CustomerServiceContract.cs",
+              "RelativeToolTip": "SOAP_API\\Models\\CustomerServiceContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:42:03.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
